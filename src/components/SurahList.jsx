@@ -216,7 +216,7 @@ const SurahList = () => {
   return (
     <div className="bg-gray-50 min-h-screen p-6">
       <h1 className="text-4xl font-bold text-center text-indigo-700 mb-8 animate-fadeIn">
-        Surah Progress Tracker
+        Bayyinah TV Progress Tracker
       </h1>
       <div className="space-y-8">
         {surahData.map((surah) => (
