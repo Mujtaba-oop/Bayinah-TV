@@ -1,25 +1,25 @@
-import React, { useState } from 'react';
+// src/components/Part.jsx
+import React from "react";
 
-const Part = ({ part, updateProgress }) => {
-  const [watched, setWatched] = useState(false);
-
-  const handleWatched = () => {
-    if (!watched) {
-      setWatched(true);
-      updateProgress();  // Update the parent Surah progress
-    }
-  };
-
+const Part = ({ part, isWatched, onWatch, onUnwatch }) => {
   return (
-    <li className="flex justify-between items-center border-b py-2">
-      <span>{part.title} - {part.duration}</span>
-      <button
-        onClick={handleWatched}
-        disabled={watched}
-        className={`px-3 py-1 rounded ${watched ? 'bg-gray-500' : 'bg-green-500 hover:bg-green-600'} text-white`}
-      >
-        {watched ? '✔ Watched' : '✔'}
-      </button>
+    <li className="flex justify-between items-center p-2 border-b">
+      <span>{part.title}</span>
+      {isWatched ? (
+        <button
+          className="bg-red-500 text-white px-4 py-1 rounded hover:bg-red-600"
+          onClick={onUnwatch}
+        >
+          Unwatch
+        </button>
+      ) : (
+        <button
+          className="bg-blue-500 text-white px-4 py-1 rounded hover:bg-blue-600"
+          onClick={onWatch}
+        >
+          Mark as Watched
+        </button>
+      )}
     </li>
   );
 };
