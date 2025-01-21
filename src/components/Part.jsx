@@ -14,10 +14,10 @@ const Part = ({ part, isWatched, onWatch, onUnwatch }) => {
         </button>
       ) : (
         <button
-          className="bg-blue-500 text-white px-4 py-1 rounded hover:bg-blue-600"
+          className="bg-purple-500 text-white px-4 py-1 rounded hover:bg-blue-600"
           onClick={onWatch}
         >
-          Mark as Watched
+           Watched
         </button>
       )}
     </li>
