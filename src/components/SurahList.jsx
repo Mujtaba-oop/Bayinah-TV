@@ -367,6 +367,23 @@ const surahData = [
       { title: "12-Ayah (83-102)" },  
       { title: "13-Ayah (103-111)" }  
   ]  
+},{  
+  "title": "18-Al-Kahf",  
+  "parts": [  
+    { "title": "1-Ayah (1-3)", "duration": "23m 27s" },  
+    { "title": "2-Ayah (4-9)", "duration": "20m 39s" },  
+    { "title": "3-Ayah (10-16)", "duration": "22m 11s" },  
+    { "title": "4-Ayah (15-19)", "duration": "18m 47s" },  
+    { "title": "5-Ayah (20-25)", "duration": "18m 21s" },  
+    { "title": "6-Ayah (26-29)", "duration": "20m 22s" },  
+    { "title": "7-Ayah (30-37)", "duration": "19m 00s" },  
+    { "title": "8-Ayah (38-45)", "duration": "16m 32s" },  
+    { "title": "9-Ayah (46-57)", "duration": "24m 11s" },  
+    { "title": "10-Ayah (58-73)", "duration": "22m 55s" },  
+    { "title": "11-Ayah (74-82)", "duration": "22m 01s" },  
+    { "title": "12-Ayah (83-99)", "duration": "24m 38s" },  
+    { "title": "13-Ayah (100-110)", "duration": "26m 05s" }  
+  ]  
 },
 {  
   "title": "19-Surah Maryam",  
@@ -682,7 +699,7 @@ const surahData = [
   ]  
 },
 {  
-  "title": "Surah Adh-Dhariyat",  
+  "title": "51-Surah Adh-Dhariyat",  
   "parts": [  
     { "title": "01. Adh-Dhariyat (Ayah 1-47)", "duration": "18m 28s" },  
     { "title": "02. Adh-Dhariyat (Ayah 47-60)", "duration": "18m 59s" },  
@@ -690,28 +707,28 @@ const surahData = [
   ]  
 },
 {  
-  "title": "At-Tur",  
+  "title": "52-At-Tur",  
   "parts": [  
       { "title": "1-Ayah (1-23)", "duration": "20m 02s" },  
       { "title": "2-Ayah (23-49)", "duration": "" }  
   ]  
 },
 {  
-  "title": "An-Najm",  
+  "title": "53-An-Najm",  
   "parts": [  
       { "title": "1-Ayah (1-32)", "duration": "20m 06s" },  
       { "title": "2-Ayah (32-62)", "duration": "" }  
   ]  
 },
 {  
-  "title": "Al-Qamar",  
+  "title": "54-Al-Qamar",  
   "parts": [  
       { "title": "1-Ayah (1-34)", "duration": "20m 03s" },  
       { "title": "2-Ayah (34-55)", "duration": "17m 51s" }  
   ]  
 },
 {  
-  "title": "Ar-Rahman",  
+  "title": "55-Ar-Rahman",  
   "parts": [  
       { "title": "1-The Introduction", "duration": "20m 05s" },  
       { "title": "2-Ayah (1-2a)", "duration": "20m 28s" },  
@@ -983,9 +1000,16 @@ const surahData = [
   ]  
 },
 {  
-  "title": "88-Al-Ghashiyah",  
+  "title": "89-Al-Fajr",  
   "parts": [  
-    { "title": "1-Ayah (1-26)", "duration": "57m 21s" }  
+    {  
+      "title": "01-Al-Fajr (Ayah 1-16)",  
+      "duration": "53m 52s"  
+    },  
+    {  
+      "title": "02-Al-Fajr (Ayah 17-30)",  
+      "duration": "57m 25s"  
+    }  
   ]  
 },
 {  
@@ -1030,6 +1054,14 @@ const surahData = [
     { "title": "1-Introduction", "duration": "35m 23s" },  
     { "title": "2-Ayah (1-19)", "duration": "01h 04m" }  
   ]  
+},{  
+  "title": "97-Al-Qadr",  
+  "parts": [  
+    {  
+      "title": "01-Al-Qadr (Ayah 1-5)",  
+      "duration": "37m 15s"  
+    }  
+  ]  
 },
 {  
   "title": "98-Al-Bayyinah",  
@@ -1070,13 +1102,105 @@ const surahData = [
     { "title": "4-Ayah (Part 4 of 5)", "duration": "01h 17m" },  
     { "title": "5-Ayah (Part 5 of 5)", "duration": "01h 38m" }  
   ]  
+},{  
+  "title": "104-Al-Humazah",  
+  "parts": [  
+    {  
+      "title": "01-Al-Humazah (Ayah 1-9)",  
+      "duration": "01h 17m"  
+    }  
+  ]  
 },
 {  
   "title": "105-Al-Fil",  
   "parts": [  
     { "title": "1-Ayah (1-5)", "duration": "01h 07m" }  
   ]  
+},
+{  
+  "title": "106-Quraish",  
+  "parts": [  
+    {  
+      "title": "01-Quraish",  
+      "duration": "02m 52s"  
+    },  
+    {  
+      "title": "02-Quraish - 106",  
+      "duration": "45m 20s"  
+    }  
+  ]  
+},{  
+  "title": "107-Al-Ma'un",  
+  "parts": [  
+    {  
+      "title": "01-Al-Ma'un",  
+      "duration": "54m 46s"  
+    }  
+  ]  
+},{  
+  "title": "108-Al-Kawthar",  
+  "parts": [  
+    {  
+      "title": "01-Al-Kawthar",  
+      "duration": "01h 28m"  
+    }  
+  ]  
+},
+{  
+  "title": "109-Al-Kafirun",  
+  "parts": [  
+    {  
+      "title": "01-Al-Kafirun",  
+      "duration": "1h 17m"  
+    }  
+  ]  
+},
+{  
+  "title": "110-An-Nasr",  
+  "parts": [  
+    {  
+      "title": "01-An-Nasr",  
+      "duration": "1h 20m"  
+    }  
+  ]  
+},
+{  
+  "title": "111-Al-Masad",  
+  "parts": [  
+    {  
+      "title": "01-Al-Masad",  
+      "duration": "1h 18m"  
+    }  
+  ]  
+},
+{  
+  "title": "112-Al-Ikhlas",  
+  "parts": [  
+    {  
+      "title": "01-Al-Ikhlas",  
+      "duration": "1h 26m"  
+    }  
+  ]  
+},
+{  
+  "title": "113-Al-Falaq",  
+  "parts": [  
+    {  
+      "title": "01-Al-Falaq",  
+      "duration": "1h 41m"  
+    }  
+  ]  
+},
+{  
+  "title": "114-An-Nas",  
+  "parts": [  
+    {  
+      "title": "01-An-Nas",  
+      "duration": "1h 18m"  
+    }  
+  ]  
 }
+
 
 
 
