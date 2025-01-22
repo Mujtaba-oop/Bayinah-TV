@@ -680,7 +680,411 @@ const surahData = [
       { "title": "1-Ayah (1-22)", "duration": "19m 59s" },  
       { "title": "2-Ayah (23-45)", "duration": "13m 46s" }  
   ]  
+},
+{  
+  "title": "Surah Adh-Dhariyat",  
+  "parts": [  
+    { "title": "01. Adh-Dhariyat (Ayah 1-47)", "duration": "18m 28s" },  
+    { "title": "02. Adh-Dhariyat (Ayah 47-60)", "duration": "18m 59s" },  
+    { "title": "Brief Reflections from Surah 51", "duration": "24m 06s" }  
+  ]  
+},
+{  
+  "title": "At-Tur",  
+  "parts": [  
+      { "title": "1-Ayah (1-23)", "duration": "20m 02s" },  
+      { "title": "2-Ayah (23-49)", "duration": "" }  
+  ]  
+},
+{  
+  "title": "An-Najm",  
+  "parts": [  
+      { "title": "1-Ayah (1-32)", "duration": "20m 06s" },  
+      { "title": "2-Ayah (32-62)", "duration": "" }  
+  ]  
+},
+{  
+  "title": "Al-Qamar",  
+  "parts": [  
+      { "title": "1-Ayah (1-34)", "duration": "20m 03s" },  
+      { "title": "2-Ayah (34-55)", "duration": "17m 51s" }  
+  ]  
+},
+{  
+  "title": "Ar-Rahman",  
+  "parts": [  
+      { "title": "1-The Introduction", "duration": "20m 05s" },  
+      { "title": "2-Ayah (1-2a)", "duration": "20m 28s" },  
+      { "title": "3-Ayah (1-2b)", "duration": "12m 33s" },  
+      { "title": "4-Ayah (3-4)", "duration": "20m 07s" },  
+      { "title": "5-Ayah (4-9)", "duration": "21m 21s" },  
+      { "title": "6-Ayah (10-14)", "duration": "20m 05s" },  
+      { "title": "7-Ayah (15-29)", "duration": "20m 05s" },  
+      { "title": "8-Ayah (29-39)", "duration": "20m 01s" },  
+      { "title": "9-Ayah (39-45)", "duration": "15m 09s" },  
+      { "title": "10-Ayah (46-54)", "duration": "20m 07s" },  
+      { "title": "11-Ayah (54-66)", "duration": "19m 57s" },  
+      { "title": "12-Ayah (66-76)", "duration": "20m 04s" },  
+      { "title": "13-Ayah (77-78)", "duration": "09m 01s" }  
+  ]  
+},
+{  
+  "title": "56-Al-Waqi'ah",  
+  "parts": [  
+      { "title": "1-Ayah (1-10)", "duration": "20m 04s" },  
+      { "title": "2-Ayah (10-19)", "duration": "20m 03s" },  
+      { "title": "3-Ayah (19-50)", "duration": "20m 13s" },  
+      { "title": "4-Ayah (51-75)", "duration": "20m 00s" },  
+      { "title": "5-Ayah (75-80)", "duration": "22m 07s" },  
+      { "title": "6-Ayah (81-90)", "duration": "20m 09s" },  
+      { "title": "7-Ayah (91-96)", "duration": "20m 49s" }  
+  ]  
+},{  
+  "title": "57-Al-Hadid",  
+  "parts": [  
+      { "title": "1-The Introduction Part 1", "duration": "43m 56s" },  
+      { "title": "2-The Introduction Part 2", "duration": "41m 13s" },  
+      { "title": "3-Ayah (1-7)", "duration": "20m 00s" },  
+      { "title": "4-Ayah (7-12)", "duration": "20m 02s" },  
+      { "title": "5-Ayah (12-19)", "duration": "20m 01s" },  
+      { "title": "6-Ayah (19-20)", "duration": "13m 56s" },  
+      { "title": "7-Ayah (21-23)", "duration": "20m 05s" },  
+      { "title": "8-Ayah (23-29)", "duration": "" }  
+  ]  
+},
+{  
+  "title": "58-Al-Mujadila",  
+  "parts": [  
+      { "title": "1-Ayah (1-5)", "duration": "20m 03s" },  
+      { "title": "2-Ayah (5-9)", "duration": "20m 04s" },  
+      { "title": "3-Ayah (9-16)", "duration": "19m 57s" },  
+      { "title": "4-Ayah (16-22)", "duration": "11m 17s" }  
+  ]  
+},
+{  
+  "title": "59-Al-Hashr",  
+  "parts": [  
+      { "title": "1-Ayah (1-7)", "duration": "20m 01s" },  
+      { "title": "2-Ayah (7-16)", "duration": "20m 06s" },  
+      { "title": "3-Ayah (16-24)", "duration": "19m 50s" }  
+  ]  
+},
+{  
+  "title": "60-Al-Mumtahanah",  
+  "parts": [  
+      { "title": "1-Ayah (1-6)", "duration": "20m 10s" },  
+      { "title": "2-Ayah (7-13)", "duration": "19m 13s" }  
+  ]  
+},
+{  
+  "title": "61-As-Saf",  
+  "parts": [  
+      { "title": "1-Ayah (1-4)", "duration": "20m 05s" },  
+      { "title": "2-Ayah (4-9)", "duration": "20m 24s" },  
+      { "title": "3-Ayah (9-14)", "duration": "" }   
+  ]  
+},
+{  
+  "title": "62-Al-Jumu'ah",  
+  "parts": [  
+      { "title": "1-Al Jumu'ah", "duration": "14m 07s" }  
+  ]  
+},
+{  
+  "title": "63-Al-Munafiqun",  
+  "parts": [  
+      { "title": "1-Ayah (1-2)", "duration": "20m 08s" },  
+      { "title": "2-Ayah (2-4)", "duration": "19m 54s" },  
+      { "title": "3-Ayah (4-9)", "duration": "20m 03s" },  
+      { "title": "4-Ayah (9-11)", "duration": "" }  
+  ]  
+},
+{  
+  "title": "64-At-Taghabun",  
+  "parts": [  
+      { "title": "1-Ayah (1-8)", "duration": "19m 55s" },  
+      { "title": "2-Ayah (8-14)", "duration": "19m 58s" },  
+      { "title": "3-Ayah (14-18)", "duration": "" }  
+  ]  
+},
+{  
+  "title": "65-At-Talaq",  
+  "parts": [  
+      { "title": "1-Ayah (1)", "duration": "20m 09s" },  
+      { "title": "2-Ayah (1-3)", "duration": "20m 00s" },  
+      { "title": "3-Ayah (3-12)", "duration": "" }  
+  ]  
+},
+{  
+  "title": "66-At-Tahrim",  
+  "parts": [  
+      { "title": "1-Ayah (1-3)", "duration": "20m 05s" },  
+      { "title": "2-Ayah (3-6)", "duration": "20m 02s" },  
+      { "title": "3-Ayah (6-10)", "duration": "19m 59s" },  
+      { "title": "4-Ayah (10-12)", "duration": "21m 10s" }  
+  ]  
+},
+{  
+  "title": "67-Al-Mulk",  
+  "parts": [  
+      { "title": "1-Ayah (1-11)", "duration": "20m 02s" },  
+      { "title": "2-Ayah (11-23)", "duration": "20m 02s" },  
+      { "title": "3-Ayah (23-30)", "duration": "09m 11s" }  
+  ]  
+},
+{  
+  "title": "68-Al-Qalam",  
+  "parts": [  
+      { "title": "1-Ayah (1-2)", "duration": "20m 01s" },  
+      { "title": "2-Ayah (2-15)", "duration": "20m 01s" },  
+      { "title": "3-Ayah (15-42)", "duration": "19m 56s" },  
+      { "title": "4-Ayah (42-52)", "duration": "10m 39s" }  
+  ]  
+},
+{  
+  "title": "69-Al-Haqqah",  
+  "parts": [  
+      { "title": "1-Ayah (1-7)", "duration": "20m 06s" },  
+      { "title": "2-Ayah (8-24)", "duration": "20m 05s" },  
+      { "title": "3-Ayah (24-52)", "duration": "24m 30s" }  
+  ]  
+},
+{  
+  "title": "70-Al-Ma'arij",  
+  "parts": [  
+      { "title": "1-Ayah (1-22)", "duration": "20m 02s" },  
+      { "title": "2-Ayah (22-33)", "duration": "20m 06s" },  
+      { "title": "3-Ayah (34-44)", "duration": "11m 46s" }  
+  ]  
+},
+{  
+  "title": "71-Nuh",  
+  "parts": [  
+      { "title": "1-Ayah (1-end)", "duration": "22m 04s" }  
+  ]  
+},
+{  
+  "title": "72-Al-Jinn",  
+  "parts": [  
+      { "title": "1-Ayah (1-6)", "duration": "20m 02s" },  
+      { "title": "2-Ayah (6-16)", "duration": "20m 08s" },  
+      { "title": "3-Ayah (16-28)", "duration": "20m 13s" }  
+  ]  
+},{  
+  "title": "73-Al-Muzzammil",  
+  "parts": [  
+      { "title": "1-Ayah (1-10)", "duration": "20m 09s" },  
+      { "title": "2-Ayah (10-20)", "duration": "20m 06s" },  
+      { "title": "3-Ayah (20)", "duration": "13m 16s" }  
+  ]  
+},
+{  
+  "title": "74-Al-Muddaththir",  
+  "parts": [  
+      { "title": "1-Ayah (1-18)", "duration": "20m 10s" },  
+      { "title": "2-Ayah (18-42)", "duration": "19m 52s" },  
+      { "title": "3-Ayah (43-56)", "duration": "09m 55s" }  
+  ]  
+},
+{  
+  "title": "75-Al-Qiyamah",  
+  "parts": [  
+      { "title": "1-Ayah (1-14)", "duration": "20m 01s" },  
+      { "title": "2-Ayah (14-40)", "duration": "" }  
+  ]  
+},
+{  
+  "title": "76-Al-Insan",  
+  "parts": [  
+      { "title": "1-Ayah (1-31)", "duration": "22m 04s" }  
+  ]  
+},
+{  
+  "title": "77-Al-Mursalat",  
+  "parts": [  
+      { "title": "1-Ayah (1-23)", "duration": "20m 05s" },  
+      { "title": "2-Ayah (24-50)", "duration": "12m 33s" }  
+  ]  
+},
+{  
+  "title": "78-An-Naba",  
+  "parts": [  
+      { "title": "1-Ayah (1-13)", "duration": "42m 04s" },  
+      { "title": "2-Ayah (14-37)", "duration": "01h 16m" },  
+      { "title": "3-Ayah (37-40)", "duration": "24m 30s" }  
+  ]  
+},
+{  
+  "title": "79-An-Nazi'at",  
+  "parts": [  
+      { "title": "1-Ayah (1-11)", "duration": "01h 08m" },  
+      { "title": "2-Ayah (10-20)", "duration": "50m 33s" },  
+      { "title": "3-Ayah (17-26)", "duration": "57m 33s" },  
+      { "title": "4-Ayah (27-46)", "duration": "01h 16m" }  
+  ]  
+},
+{  
+  "title": "'80-Abasa",  
+  "parts": [  
+    { "title": "1-Ayah (1-10)", "duration": "59m 01s" },  
+    { "title": "2-Ayah (11-42)", "duration": "01h 13m" }  
+  ]  
+},
+{  
+  "title": "81-At-Takwir",  
+  "parts": [  
+    { "title": "1-Ayah (1-14)", "duration": "59m 46s" },  
+    { "title": "2-Ayah (15-29)", "duration": "59m 48s" }  
+  ]  
+},
+{  
+  "title": "82-Al-Infitar",  
+  "parts": [  
+    { "title": "1-Ayah (1-5)", "duration": "01h 04m" },  
+    { "title": "2-Ayah (6-19)", "duration": "01h 04m" }  // Duration for Ayat 6-19 not specified, please provide if available  
+  ]  
+},
+{  
+  "title": "83-Al-Mutaffifin",  
+  "parts": [  
+    { "title": "1-Ayah (1-17)", "duration": "50m 04s" },  
+    { "title": "2-Ayah (18-36)", "duration": "32m 36s" }  
+  ]  
+},
+{  
+  "title": "84-Al-Inshiqaq",  
+  "parts": [  
+    { "title": "1-Ayah (1-25)", "duration": "01h 04m" }  
+  ]  
+},
+{  
+  "title": "85-Al-Buruj",  
+  "parts": [  
+    { "title": "1-Ayah (1-22)", "duration": "58m 33s" }  
+  ]  
+},
+{  
+  "title": "86-At-Tariq",  
+  "parts": [  
+    { "title": "1-Ayah (1-17)", "duration": "N/A" }  // Please provide the duration if available  
+  ]  
+},
+{  
+  "title": "87-Al-A'la",  
+  "parts": [  
+    { "title": "1-Ayah (1-7)", "duration": "48m 18s" },  
+    { "title": "2-Ayah (7-19)", "duration": "56m 20s" }  
+  ]  
+},
+{  
+  "title": "88-Al-Ghashiyah",  
+  "parts": [  
+    { "title": "1-Ayah (1-26)", "duration": "57m 21s" }  
+  ]  
+},
+{  
+  "title": "88-Al-Ghashiyah",  
+  "parts": [  
+    { "title": "1-Ayah (1-26)", "duration": "57m 21s" }  
+  ]  
+},
+{  
+  "title": "90-Al-Balad",  
+  "parts": [  
+    { "title": "1-Ayah (1-20)", "duration": "01h 13m" }  
+  ]  
+},
+{  
+  "title": "91-Ash-Shams",  
+  "parts": [  
+    { "title": "1-Ayah (1-15)", "duration": "53m 22s" }  
+  ]  
+},
+{  
+  "title": "92-Al-Layl",  
+  "parts": [  
+    { "title": "1-Ayah (1-21)", "duration": "59m 08s" }  
+  ]  
+},
+{  
+  "title": "93-Ad-Duhaa",  
+  "parts": [  
+    { "title": "1-Ayah (1-11)", "duration": "01h 10m" }  
+  ]  
+},
+{  
+  "title": "94-Ash-Sharh",  
+  "parts": [  
+    { "title": "1-Ayah (1-8)", "duration": "54m 21s" }  
+  ]  
+},
+{  
+  "title": "95-At-Tin",  
+  "parts": [  
+    { "title": "1-Ayah (1-8)", "duration": "43m 16s" }  
+  ]  
+},
+{  
+  "title": "96-Al-'Alaq",  
+  "parts": [  
+    { "title": "1-Introduction", "duration": "35m 23s" },  
+    { "title": "2-Ayah (1-19)", "duration": "01h 04m" }  
+  ]  
+},
+{  
+  "title": "98-Al-Bayyinah",  
+  "parts": [  
+    { "title": "1-Ayah (1-8)", "duration": "50m 27s" }  
+  ]  
+},
+{  
+  "title": "99-Az-Zalzalah",  
+  "parts": [  
+    { "title": "1-Ayah (1-8)", "duration": "40m 42s" }  
+  ]  
+},
+{  
+  "title": "100-Al-'Adiyat",  
+  "parts": [  
+    { "title": "1-Ayah (1-11)", "duration": "01h 26m" }  
+  ]  
+},
+{  
+  "title": "101-Al-Qari'ah",  
+  "parts": [  
+    { "title": "1-Ayah (1-11)", "duration": "01h 07m" }  
+  ]  
+},
+{  
+  "title": "102-At-Takathur",  
+  "parts": [  
+    { "title": "1-Ayah (1-8)", "duration": "01h 15m" }  
+  ]  
+},
+{  
+  "title": "103-Al-'Asr",  
+  "parts": [  
+    { "title": "1-Ayah (Part 1 of 5)", "duration": "01h 12m" },  
+    { "title": "2-Ayah (Part 2 of 5)", "duration": "29m 32s" },  
+    { "title": "3-Ayah (Part 3 of 5)", "duration": "01h 06m" },  
+    { "title": "4-Ayah (Part 4 of 5)", "duration": "01h 17m" },  
+    { "title": "5-Ayah (Part 5 of 5)", "duration": "01h 38m" }  
+  ]  
+},
+{  
+  "title": "105-Al-Fil",  
+  "parts": [  
+    { "title": "1-Ayah (1-5)", "duration": "01h 07m" }  
+  ]  
 }
+
+
+
+
+
+
+
+
 
 
 
