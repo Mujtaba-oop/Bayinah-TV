@@ -1,12 +1,12 @@
 // src/App.jsx
 import React from "react";
-import SurahList from "./components/SurahList";
+import TabMenu from "./components/TabMenu";
 
 const App = () => {
   return (
     <div className=" bg-gray-100 ">
       <div className="">
-        <SurahList />
+        <TabMenu />
       </div>
     </div>
   );

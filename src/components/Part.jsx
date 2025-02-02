@@ -7,17 +7,17 @@ const Part = ({ part, isWatched, onWatch, onUnwatch }) => {
       <span>{part.title}</span>
       {isWatched ? (
         <button
-          className="bg-red-500 text-white px-4 py-1 rounded hover:bg-red-600"
+          className="bg-green-600 text-white px-4 py-1 rounded hover:bg-green-600"
           onClick={onUnwatch}
         >
-          Unwatch
+          Completed
         </button>
       ) : (
         <button
           className="bg-purple-500 text-white px-4 py-1 rounded hover:bg-blue-600"
           onClick={onWatch}
         >
-           Watched
+           Not Watched
         </button>
       )}
     </li>
